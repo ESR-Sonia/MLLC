@@ -9,8 +9,12 @@ The first version of this script was written as part of the analysis performed i
 You may use this code to familiarize yourself with how to draw multilayer networks and calculate centralities using a list of edges and a list of nodes as input data. To follow the script “network_analysis.R” you will need to use the functions provided in the R folder.
 
 ## List of Files:
-
-1.	Scripts (folder)
+* Item 1 Scripts (folder)
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
+1.	
 1.1.	connected_components_under_daily_thresholds.R
 1.2.	mean_Closeness_under_daily_thresholds.R
 1.3.	mean_Hub_under_daily_thresholds.R
