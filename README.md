@@ -4,7 +4,7 @@ Scripts for calculations of habitat connectivity based on the monolayer and mult
 
 ## Functionality and background
 
-The first version of this script was written as part of the analysis performed in: Recinos S., Funk A., Tiwari S., Baldan D., Hein T. (2023). Multilayer Networks in Landscape Ecology: A Case Study to assess changes in aquatic habitat connectivity for flying and non-flying benthic Macroinvertebrates in a Danube floodplain [submitted for publication]. Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences, Vienna, Austria.
+This version of this script was written as part of the analysis performed in: Recinos S., Funk A., Tiwari S., Baldan D., Hein T. (2023). Multilayer Networks in Landscape Ecology: A Case Study to assess changes in aquatic habitat connectivity for flying and non-flying benthic Macroinvertebrates in a Danube floodplain [submitted for publication]. Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences, Vienna, Austria.
 
 You may use this code to familiarize yourself with how to draw multilayer networks and calculate centralities using a list of edges and a list of nodes as input data. To follow the script “network_analysis.R” you will need to use the functions provided in the R folder.
 
