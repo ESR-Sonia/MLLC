@@ -10,6 +10,10 @@ You may use this code to familiarize yourself with how to draw multilayer networ
 
 ## List of Files:
 
+* R (folder)
+  * get_monolayer_centralities.R
+  * get_multicentralities.R
+  * getlist_of_sequence_SC_FC_graphs.R
 * Scripts (folder)
   * connected_components_under_daily_thresholds.R
   * mean_Closeness_under_daily_thresholds.R
@@ -22,10 +26,7 @@ You may use this code to familiarize yourself with how to draw multilayer networ
     * edgeList_longT_after.csv
     * edgeList_shortT_after.csv
     * nodes_before.csv
-* R (folder)
-  * get_monolayer_centralities.R
-  * get_multicentralities.R
-  * getlist_of_sequence_SC_FC_graphs.R
+
 
 ## Acknowledgments
 
